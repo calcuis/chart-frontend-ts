@@ -1,2 +1,2 @@
 # typescript
-chart in typescript
+chart in typescript :blue_book: :octocat:
