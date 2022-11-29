@@ -2,10 +2,6 @@
   box-sizing: border-box;
 }
 
-body {
-  margin: 0;
-}
-
 .logo {
   position: absolute;
   top: 5px;
